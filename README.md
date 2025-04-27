@@ -73,6 +73,7 @@ Curated list of top AI Tools.
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
 | Interior AI | interior design mockups and virtual staging | [🔗](https://interiorai.com/)|
+| PixNova AI | Free all-in-one AI tools for photo editing & generation and AI face swap | [🔗]https://pixnova.ai/)|
 | stockimg.ai  | AI-powered designs | [🔗](https://stockimg.ai/)|
 | Brand Mark | Generating brand logos | [🔗](https://brandmark.io/)|
 | Magic Eraser | Removing unwanted elements from images | [🔗](https://www.magiceraser.io/)|
